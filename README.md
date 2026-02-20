@@ -34,4 +34,4 @@ The goal was to predict future sales using historical time-series data from Corp
 - Helps reduce stockouts/overstock → estimated 10–25% efficiency gain in inventory
 - Enables better staffing & cash flow planning
 
-## Project Structure
+
